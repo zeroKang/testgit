@@ -8,10 +8,10 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("111");
-		System.out.println("22");
-		System.out.println("33");
-		System.out.println("44");
+		System.out.println("aaaa");
+		System.out.println("bbb");
+		System.out.println("ccc");
+		System.out.println("ddd");
 		
 		SpringApplication.run(DemoApplication.class, args);
 	}
