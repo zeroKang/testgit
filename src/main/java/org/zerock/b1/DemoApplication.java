@@ -12,6 +12,7 @@ public class DemoApplication {
 		System.out.println("AAAAAAAAA");
 		System.out.println("AAAAAAAAA");
 		System.out.println("AAAAAAAAA");
+		
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
